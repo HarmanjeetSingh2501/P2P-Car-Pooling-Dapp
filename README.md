@@ -1,6 +1,5 @@
 # P2P-Car-Pooling-Dapp
 
-Description 
 In response to the privacy and security challenges inherent in centralized carpooling systems dominated by industry giants like Ola and Uber, this project introduces a pioneering decentralized peer-to-peer carpooling platform built on blockchain technology. The primary aim is to establish a secure and direct connection between riders and drivers using smart contracts, eliminating the need for intermediaries and mitigating potential privacy concerns. By leveraging blockchain's power, the project seeks to redefine carpooling dynamics, ensuring transparency, user autonomy, and enhanced security.
 
 Decentralized Framework: The platform operates on a decentralized network, reducing reliance on centralized authorities and fostering a more distributed, user-centric ecosystem.
